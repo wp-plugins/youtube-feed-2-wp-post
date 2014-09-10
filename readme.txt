@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: http://profiles.wordpress.org/sohelamin/
+Contributors: sohelamin
 Tags: youtube, post, appzcoder, sohelamin
 Requires at least: 3.0.1
 Tested up to: 4.0
