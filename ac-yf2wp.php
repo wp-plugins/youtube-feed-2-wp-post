@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Youtube Feed to WP Post
+ * Plugin Name: YouTube Feed to WP Post
  * Plugin URI: http://appzcoder.com
  * Description: A wordpress plugin which is simply allow you to import your youtube video feed as a post within every 30 minutes.
  * Version: 1.0
