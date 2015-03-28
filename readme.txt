@@ -13,7 +13,7 @@ A wordpress plugin which is simply allow you to import your YouTube video feed a
 
 Features:
 
-*	Anyone can import their YouTube feed as post.
+*	Anyone can import their YouTube video feed as post.
 *	Post can be searchable or manageable to use anywhere of the wordpress blog.
 *	User can select a custom schedule import the video from YouTube.
 *	Short Code supported.
@@ -21,7 +21,7 @@ Features:
 
 == Installation ==
 
-1. Upload `youtube-feed-2-wp-post` to the `/wp-content/plugins/` directory
+1. Upload `youtube-video-2-wp-post` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Put your YouTube user's/channel's id in plugin's setting page.
 4. Select the interval time when you want to update the feed automatically.
@@ -31,8 +31,13 @@ Features:
 
 1. `/assets/screenshot-1.png`
 2. `/assets/screenshot-2.png`
+3. `/assets/screenshot-3.png`
 
 == Changelog ==
+
+= 1.2 =
+* Shortcode support on editor.
+* Code re-factored.
 
 = 1.1 =
 * Short code added for showing the video on a post or inside the post loop.
