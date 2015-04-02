@@ -286,7 +286,7 @@ class AppzCoder_YouTube_Video_To_WP_Post {
      * @return Array
      */		
 	function ac_plugin_settings_link( $links ) { 
-		$settings_link = '<a href="admin.php?page=youtube-video-2-wp-post/settings.php">Settings</a>'; 
+		$settings_link = '<a href="admin.php?page=youtube-feed-2-wp-post/settings.php">Settings</a>'; 
 		array_unshift( $links, $settings_link ); 
 		return $links; 
 	}
