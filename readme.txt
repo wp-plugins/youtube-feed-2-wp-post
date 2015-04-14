@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: sohelamin
-Tags: youtube, post, appzcoder, sohelamin
+Tags: youtube, post, youtube video, appzcoder, sohelamin
 Requires at least: 3.6
 Tested up to: 4.1
 Stable tag: 4.1
