@@ -2,8 +2,8 @@
 Contributors: sohelamin
 Tags: youtube, post, youtube video, appzcoder, sohelamin
 Requires at least: 3.6
-Tested up to: 4.1
-Stable tag: 4.1
+Tested up to: 4.2
+Stable tag: 4.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
